@@ -6,3 +6,7 @@ numero_real = numero_real ** 0.5
 
 print(f'Quadrado do real: {numero_real}')
 print(type(numero_real))
+print(type(numero_real))
+print(type(numero_real))
+print(type(numero_real))
+print(type(numero_real))
